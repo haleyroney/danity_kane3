@@ -23,10 +23,11 @@ body { width: 1200px;
 #myinstagrams {
   float: center;
 }
-.container2 {
+.container2 {   margin: 0 auto;
 
-  border:2px solid #000000; border-width: 5px; background-color: #B0C4DE;  width: 400px;  height: 150px;}
+  border:2px solid #000000; border-width: 5px; background-color: #B0C4DE;  width: 300px;  height: 175px;}
 .container3 {
+  float: left;
 
-  border: 2px solid #000000; border-width: 5px; background-color: #B0C4DE; width: 618px; height: 770px;}
+  border: 2px solid #000000; border-width: 5px; background-color: #B0C4DE; width: 360px; height: 700px; overflow-y:scroll; overflow-x: hidden;}
 
